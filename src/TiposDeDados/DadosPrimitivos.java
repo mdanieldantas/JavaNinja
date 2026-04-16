@@ -4,7 +4,7 @@ public class DadosPrimitivos {
     static void main(String[] args) {
         /*
          * Dados Nao primitivos: int, double, float, char, boolean
-         * Objeto da aula: Criar um ninja - Naruto -
+         * Objeto da aula: Criar um ninja - Naruto -.
          * */
 
         int idade = 17; // Valor maximo: 2147483647
